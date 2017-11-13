@@ -1,0 +1,38 @@
+img{
+  width: 200px;
+  height: 200px;
+  /*position: relative;*/
+  border: 2px Solid Blue;
+  margin: -15px;
+}
+td {
+/*margin-left: 40%;*/
+text-align: center;
+}
+h2{
+  background-color: coral;
+  width: 950px;
+  height: 70px;
+}
+.redtext {
+  color: red;
+}
+
+td h4:first-child {
+  color: blue;
+}
+td h4:last-child {
+  color: green;
+}
+
+table {
+  width: 950px;
+  margin: 3px;
+}
+h5 {
+  float: right;
+  color: red;
+}
+body {
+  width: 950px;
+}
